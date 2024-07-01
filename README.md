@@ -1,2 +1,2 @@
 # Inventory-Management-System
-A simple software which can be used to maintain inventory.
+A simple gui application which can be used to maintain inventory.
